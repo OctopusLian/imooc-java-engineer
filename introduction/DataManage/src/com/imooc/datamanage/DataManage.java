@@ -1,3 +1,5 @@
+package com.imooc.datamanage;
+
 import java.util.Scanner;
 
 /*
@@ -5,7 +7,7 @@ import java.util.Scanner;
  * @Author: neozhang
  * @Date: 2022-04-05 17:57:53
  * @LastEditors: neozhang
- * @LastEditTime: 2022-04-05 18:23:23
+ * @LastEditTime: 2022-04-05 20:07:56
  */
 
 public class DataManage {
